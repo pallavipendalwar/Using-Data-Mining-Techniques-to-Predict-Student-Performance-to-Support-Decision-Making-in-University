@@ -1,0 +1,10 @@
+Acedamic percentage in Operating Systems,percentage in Algorithms,Percentage in Programming Concepts,Percentage in Software Engineering,Percentage in Computer Networks,Percentage in Electronics Subjects,Percentage in Computer Architecture,Percentage in Mathematics,Percentage in Communication skills,Logical quotient rating,coding skills rating,self-learning capability?,Extra-courses did,certifications,workshops,talenttests taken?,reading and writing skills,memory capability score,Interested subjects,interested career area,Job/Higher Studies?
+69,63,78,87,94,94,87,84,61,4,4,yes,yes,shell programming,cloud computing,no,excellent,excellent,cloud computing,system developer,higherstudies
+78,52,65,87,34,95,56,84,61,4,4,yes,yes,shell programming,cloud computing,no,excellent,excellent,cloud computing,system developer,higherstudies
+78,62,73,60,71,70,73,84,91,7,2,no,yes,machine learning,database security,no,poor,medium,networks,Business process analyst,job
+71,86,91,87,61,81,72,72,94,1,1,no,yes,app development,web technologies,no,poor,excellent,hacking,developer,higherstudies
+88,85,68,84,88,66,86,76,82,2,2,yes,no,full stack,system designing,no,medium,excellent,networks,system developer,higherstudies
+76,63,92,74,76,81,76,87,81,8,7,yes,yes,distro making,data science,yes,poor,excellent,networks,system developer,job
+74,94,94,82,64,92,84,67,80,4,6,yes,no,distro making,database security,no,excellent,poor,hacking,Business process analyst,higherstudies
+60,84,84,70,80,78,64,83,60,8,6,no,no,shell programming,cloud computing,yes,excellent,excellent,Computer Architecture,testing,job
+91,61,83,80,88,62,88,76,86,9,1,no,yes,machine learning,data science,no,poor,excellent,networks,security,higherstudies
